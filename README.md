@@ -23,7 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Deplot instructions
+## Deploy instructions
 Run `npm run build`
  
  Creates a dist directory
